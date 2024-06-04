@@ -1,4 +1,4 @@
-# Prodigy
+# Responsive Landing Page
 I'm excited to share that I have successfully completed the development of a responsive landing page(Task-1) for an Internship of Web Development to ProdigyInfoTech ! 🎉
 
 Project Highlights:
